@@ -1,3 +1,7 @@
 test file
 
+<<<<<<< HEAD
 third line added
+=======
+second line added
+>>>>>>> 326ffb0cb69b14a41a9aba9e3b50cc60958a5e7e
